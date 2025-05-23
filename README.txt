@@ -1,7 +1,5 @@
-﻿README for VoidStar OS 0.1
-Welcome to the first ever build of VoidStar OS, first things first, I wanna thank you for choosing my project, especially because its in alpha, you could’ve chose ubuntu, or lubuntu, or heck, even base arch.
-But you didn’t, so I wanna thank you.
-Now, before getting to the instructions just know that all of the softwares included in voidstar are NOT mine, so all the credits go to their respective creators.
+﻿README for VoidStar OS NEXT 0.2
+Hi, welcome back to the VoidStar OS project, we are so back, but first of all, thanks for being part again of the testers, for beliving in a rising project, a new idea, this time, built from zero, from nothing.
 INSTALLATION GUIDE
-The file I supplied is in vdi, so if you want to use it in virtualbox, just create a new vm and put in the file.
-If you want to use it on a real machine, you should first turn the file into in iso, then flash the iso to your destination drive
+the file i supplied is in .img, and the only way it's working (right now)
+is by running it in qemu
